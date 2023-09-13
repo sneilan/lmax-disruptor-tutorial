@@ -1,4 +1,4 @@
-# Hello World LMAX Disruptor (C++ & < 200 LOC)
+# Hello World LMAX Disruptor (C++ < 200 LOC)
 
 ## TLDR
 
